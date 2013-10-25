@@ -1,7 +1,7 @@
 var pomelo = require('pomelo');
 var routeUtil = require('./app/util/routeUtil');
 /**
- * Init app for client.
+ * Init app for client.22222222
  */
 var app = pomelo.createApp();
 app.set('name', 'chatofpomelo-websocket');
